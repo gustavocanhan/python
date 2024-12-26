@@ -1,1 +1,1 @@
-print ('meu primeiro programa')
+x = 5
